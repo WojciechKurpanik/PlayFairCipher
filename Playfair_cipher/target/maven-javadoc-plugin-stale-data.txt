@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Playfair_cipher 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Playfair_cipher 1.0-SNAPSHOT API'
+model
+view
+com.mycompany.playfair_cipher
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/src/main/java = 1728562770462
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/tag-search-index.js = 1729666086789
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/overview-tree.html = 1729666086781
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/module-search-index.js = 1729666086788
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/index.html = 1729666086782
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/package-search-index.js = 1729666086789
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/link.svg = 1729666086798
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/index-all.html = 1729666086793
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/allpackages-index.html = 1729666086788
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/member-search-index.js = 1729666086789
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/copy.svg = 1729666086797
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/script.js = 1729666086797
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/stylesheet.css = 1729666086797
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/search-page.js = 1729666086799
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/overview-summary.html = 1729666086794
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/help-doc.html = 1729666086795
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/element-list = 1729666086765
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/search.html = 1729666086793
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/allclasses-index.html = 1729666086787
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/type-search-index.js = 1729666086789
+/Users/wojtekkurpanik/NetBeansProjects/Playfair_cipher/target/reports/apidocs/search.js = 1729666086798
